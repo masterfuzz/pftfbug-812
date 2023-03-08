@@ -1,0 +1,12 @@
+{
+  "name": "pftfbug",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@types/node": "^16"
+  },
+  "dependencies": {
+    "@pulumi/pulumi": "3.52.0",
+    "@pulumi/random": "4.8.2",
+    "@tetratelabs/pulumi-checkmate": "github:tetratelabs/pulumi-checkmate#v0.1.2"
+  }
+}
